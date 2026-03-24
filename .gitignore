@@ -1,0 +1,16 @@
+# Visual Studio (.vs)
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Build folders (optional but recommended)
+bin/
+obj/
+
+# Logs
+*.log
